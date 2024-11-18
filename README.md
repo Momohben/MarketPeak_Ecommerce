@@ -1,3 +1,12 @@
+steps taken are outlined below:
+we made a new diretory called MarketPeak_Ecommerce
+mkdir MarketPeak_Ecommerce
+cd MarketPeak_Ecommerce
+git init
+![Screenshot 2024-11-18 182445](https://github.com/user-attachments/assets/a909131b-1bae-4d9b-bdd4-e98939423f0d)
+A sample website template was used for this project. Tooplate resource. Extracted template was downloaded to our created file 
+GitHub repository was clone to our AWS EC2 instance authenticating with our SSH
+![Screenshot 2024-11-18 182820](https://github.com/user-attachments/assets/49a852a4-ce86-418a-a22e-bcf2ccf23cef)
 
 
 ![Screenshot 2024-11-02 215207](https://github.com/user-attachments/assets/cefe12bd-6bd7-4664-931e-00cc85457755)
